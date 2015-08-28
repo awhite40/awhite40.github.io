@@ -3,7 +3,7 @@
 url: "http://awhite40.github.io"
 title: "Alicia Rossi"
 description: "Blog and website of Alicia Rossi, blogging mainly for research. Opinions expressed are mine."
-disqus-shortname: "panossakkos"
+disqus-shortname: "awhite40"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -28,9 +28,9 @@ paginate_path: "blog/page:num"
 
 post-preview-words: 128
 
-fb-share: True
-twitter-share: True
-reddit-share: True
+fb-share: False
+twitter-share: False
+reddit-share: False
 
 # Career variables
 
@@ -59,16 +59,10 @@ career-img: "/img/career/default.jpg"
 
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:
-  - title: "rss"
-    url: "/feed.xml"
   - title: "github"
-    url: "https://github.com/PanosSakkos"
+    url: "https://github.com/awhite40"
   - title: "linkedin"
     url: "http://no.linkedin.com/in/PanosSakkos"
-  - title: "youtube"
-    url: "http://youtube.com/c/PanosSakkos"
-  - title: "soundcloud"
-    url: "https://soundcloud.com/psakkos/"
 
 404-img: "/img/labtocat.png"
 
