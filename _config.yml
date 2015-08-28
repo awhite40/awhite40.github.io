@@ -1,12 +1,8 @@
 # Site settings
 
 url: "http://awhite40.github.io"
-title: "{ Panos Sakkos }"
-description: "Blog and website of Panos Sakkos, blogging mainly for tech. Opinions expressed are mine."
-keywords: "panos, sakkos, panos sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft"
-favicon: "/img/favicon.ico"
-black-favicon: "/img/black-lab-glass.ico"
-google-tracking-id: "UA-35880426-3"
+title: "Alicia Rossi"
+description: "Blog and website of Alicia Rossi, blogging mainly for research. Opinions expressed are mine."
 disqus-shortname: "panossakkos"
 
 # Navigation bar links
